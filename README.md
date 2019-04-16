@@ -1,2 +1,2 @@
 # iOS-Development
-Course Work University of California Irvine
+Course work from the University of California Irvine
